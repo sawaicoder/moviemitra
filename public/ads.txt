@@ -1,0 +1,5 @@
+# MovieMitra
+# Do not invent or copy a publisher ID.
+# After AdSense approves your account, copy the exact ads.txt record shown in AdSense.
+# Example format only (NOT a valid live record):
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
